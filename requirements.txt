@@ -1,0 +1,11 @@
+sentence-transformers
+faiss-cpu
+PyMuPDF
+google-cloud-bigquery
+python-dotenv
+scikit-learn
+nltk
+pandas
+langchain
+openai
+huggingface_hub
